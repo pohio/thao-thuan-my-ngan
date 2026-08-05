@@ -1,0 +1,1 @@
+<? echo"xin chao nay cua thuan"; ?>
