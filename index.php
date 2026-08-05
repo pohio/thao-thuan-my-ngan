@@ -1,3 +1,4 @@
 <? echo"xin chao nay cua thuan"; ?>
-<?php echo "Thao da vao duoc Github Desktop"; ?>
 <? echo"xin chao nay cua my"; ?>
+<? echo"xin chao nay cua my 2"; ?>
+<? echo"xin chao nay cua my 3"; ?>
